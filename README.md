@@ -6,9 +6,9 @@
 
 #### 知识需求+平台支撑
 
-1. #####Python模块:
+1. ##### Python模块:
 
-* ######Python基础 + pyAudio框架 + SpeechRecognition框架 + wave模块 +tqdm模块
+* ###### Python基础 + pyAudio框架 + SpeechRecognition框架 + wave模块 +tqdm模块
 
 2. ##### 应用平台：
 
